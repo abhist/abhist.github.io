@@ -9,7 +9,8 @@ canvas {
     width: 100%;
     background-color: black;
 }
-.message {
+
+div {
     display: inline-block;
     background: #aebdbf;
     color: #666666;
@@ -20,4 +21,4 @@ canvas {
     padding: 0 16px;
     margin-left: 42%;
     margin-top: 10px;
-    }
+ }
