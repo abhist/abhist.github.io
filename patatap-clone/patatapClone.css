@@ -5,20 +5,7 @@ body, html {
 }
 
 canvas {
-    height: 95%;
+    height: 100%;
     width: 100%;
     background-color: black;
 }
-
-div {
-    display: inline-block;
-    background: #aebdbf;
-    color: #666666;
-    font-family: "Lucida Grande", verdana, sans-serif;
-    font-size: 12px;
-    line-height: 32px;
-    border-radius: 10.56px;
-    padding: 0 16px;
-    margin-left: 42%;
-    margin-top: 10px;
- }
